@@ -17,4 +17,5 @@ Guidance 1 is recommended to see the solution without any problem and glitch.
 
 The repo is public so that there will not be any problem in seeing the solution.
 
-😊
+Team Members :
+Gyanu Mayank,Akshat Singhal and Abhishek Singh
